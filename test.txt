@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 4EC3-4DFD
+
+ Directory of C:\Users\Ravi Kesharwani\Desktop\learning\Git Folder
+
+08/06/2018  10:22 PM    <DIR>          .
+08/06/2018  10:22 PM    <DIR>          ..
+08/06/2018  10:22 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  86,726,492,160 bytes free
